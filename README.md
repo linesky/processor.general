@@ -1,5 +1,5 @@
 # Os.mobile
-Os mobile
+Os mobile if you nobile os is slow java virtual machine is slower than machine code android is linux? java virtual machine is slower than linux machine code?
 
 https://docs.ubports.com/en/latest/
 
