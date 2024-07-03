@@ -1,15 +1,7 @@
-# Os.mobile
-Os mobile u
-https://docs.ubports.com/en/latest/
+#processor.general
 
 
-https://docs.ubports.com/en/latest/about/process/issue-tracking.html
-
-
-https://docs.ubports.com/en/latest/userguide/install.html
-
-
-https://docs.ubports.com/en/latest/porting/build_and_boot/index.html
+https://pt.wikipedia.org/wiki/Datapoint_2200
 
 
 
