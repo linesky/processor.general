@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#pip install opencv-python
 def apply_blue_effect(frame):
     # Separar os canais de cor
     blue_channel, green_channel, red_channel = cv2.split(frame)
