@@ -1,21 +1,16 @@
 import cv2
 import numpy as np
-global xxx
-global yyy
-xxx=640-1
-yyy=480-1
+
 sets=0
 def find_blue_cursor_position(frame):
-    global xxx
-    global yyy
     
     
     for yy in range(480):
-        
+       
             
         for xx in range(640):
             
-            blue_channel,green_channel,red_channel=frame[xx,yy]
+            blue_channel,green_channel,red_channel=frame[yy,xx]
             if blue_channel<64 and green_channel>128 and red_channel<64:
                 
                 return (xx, yy)
