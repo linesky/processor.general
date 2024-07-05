@@ -8,15 +8,17 @@ sets=0
 def find_blue_cursor_position(frame):
     global xxx
     global yyy
-    # Criar uma máscara para acor azul com os critérios especificados
     
-    for y in range(480):
-        for x in range(640):
+    
+    for yy in range(480):
+        
             
-            blue_channel,green_channel,red_channel=frame[y,x]
+        for xx in range(640):
+            
+            blue_channel,green_channel,red_channel=frame[yy,xx]
             if blue_channel>128 and green_channel<64 and red_channel<64:
                 
-                return (x, y)
+                return (xx, yy)
             
             else:
                 return None
