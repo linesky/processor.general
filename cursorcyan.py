@@ -20,8 +20,8 @@ def find_blue_cursor_position(frame):
                 
                 return (xx, yy)
             
-            else:
-                return None
+            
+    return None
             
 
 def main():
