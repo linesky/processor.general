@@ -10,7 +10,7 @@ Suggestion for using magic wand games or other activities with hand controls
 
 
 
-https://www.w3schools.com/colors/colors_picker.asp
+https://cssgradient.io/
 
 
 
