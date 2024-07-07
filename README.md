@@ -10,6 +10,12 @@ Suggestion for using magic wand games or other activities with hand controls
 
 im dont make black filter on the dark all the dark all the points get a litle dark and confuse camera on blacks
 
+main colors blue green red ligth
+
+main color yellow magenta cyan paper
+
+main color black white dark and ligth
+
 
 
 
