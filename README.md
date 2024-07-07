@@ -19,7 +19,7 @@ main color black white dark and ligth
 
 
 
-
+please not use laser pointrs damage the camera , use led pointrs
 
 
 
