@@ -16,7 +16,7 @@ def find_blue_cursor_position(frame):
         for xx in range(640):
             
             blue_channel,green_channel,red_channel=frame[yy,xx]
-            if blue_channel>128 and green_channel>128 and red_channel<64:
+            if blue_channel>80 and green_channel>80 and red_channel<64:
                 
                 return (xx, yy)
             
